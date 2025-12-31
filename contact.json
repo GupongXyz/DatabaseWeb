@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "type": "whatsapp",
+    "name": "WhatsApp",
+    "link": "https://wa.me/6287732756731",
+    "description": "Hubungi saya via WhatsApp",
+    "icon": "fab fa-whatsapp"
+  },
+  {
+    "id": 2,
+    "type": "telegram",
+    "name": "Telegram",
+    "link": "https://t.me/GupongShop",
+    "description": "Kirim pesan via Telegram",
+    "icon": "fab fa-telegram"
+  }
+]
